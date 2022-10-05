@@ -10,7 +10,7 @@
  
 1. Требования к проекту.
 Проект должен быть с открытым исходным кодом, представлять из себя веб-сервис или сайт с функционалом, использованием баз данных или кеша.
-Например, можно взять за основу [Defect Dojo](https://github.com/DefectDojo/django-DefectDojo) или [CMS](https://github.com/BootstrapCMS/CMS), [netlify-CMS](https://github.com/netlify/netlify-cms).
+Например, можно взять за основу [Defect Dojo](https://github.com/DefectDojo/django-DefectDojo) или [CMS](https://github.com/BootstrapCMS/CMS), [Netlify-CMS](https://github.com/netlify/netlify-cms).
 
 2. Требования к покрытию проекта тестами безопасности.
 Проект должен проверяться на наличие уязвимостей в коде. Ни один язык программирования или фреймворк не должны быть пропущены для конкретного проекта. Весь процесс должен быть задокументирован и описан с аналитикой выбора инструментов и зон роста.
